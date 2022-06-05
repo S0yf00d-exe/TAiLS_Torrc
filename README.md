@@ -7,9 +7,9 @@
 
 - Enable Admin Password
 
-- Connect to Tor and Launch Tor Browser
+- Connect to Tor with or without bridges
 
-- Close Tor Browser
+- Close Tor Connection Helper once connection Tor Network is established
 
 - Open Terminal in location Where you saved the Torrc Scripts 
 
